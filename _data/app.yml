@@ -1,9 +1,9 @@
 name: Foodmux
 description: Amazing food. All the time.
-full_description: 'Easy to Cook. Easy to Drool. We aim to<br>
-<br>- Make it easier for you to cook.
-<br>- Choose healthy food over ordering every weekend.
-<br>- Achieve your fitness goals and meet amazing people.'
+full_description: 'Easy to Cook. Easy to Drool. We aim to:
+<br>👉 Make it easier for you to cook.
+<br>👉 Choose healthy food over ordering every weekend.
+<br>👉 Achieve your fitness goals and meet amazing people.'
 android: https://play.google.com/store/apps/details?id=com.androar.foodmux
 screenshots:
   - 1.png
