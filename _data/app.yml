@@ -1,11 +1,10 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
+name: Foodmux
+description: Amazing food. All the time.
+full_description: 'Easy to Cook. Easy to Drool. We aim to<br>
+<br>- Make it easier for you to cook.
+<br>- Choose healthy food over ordering every weekend.
+<br>- Achieve your fitness goals and meet amazing people.'
+android: https://play.google.com/store/apps/details?id=com.androar.foodmux
 screenshots:
   - 1.png
   - 2.png
