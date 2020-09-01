@@ -66,4 +66,5 @@ exclude:
   - optimization-fix-this-file-is-ignored.js
   - icon.png
   - docs
-  - .well-known
+
+include: [".well-known"]
