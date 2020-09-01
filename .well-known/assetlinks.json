@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.androar.foodmux",
+    "sha256_cert_fingerprints":
+    ["BD:5C:C1:7E:8C:BA:50:33:C6:75:BE:87:EF:6E:F2:49:1B:23:75:D2:AC:D0:E2:B6:56:0B:68:34:C6:41:40:53"]
+  }
+}]
